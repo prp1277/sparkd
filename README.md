@@ -1,0 +1,2 @@
+# sparkd
+Spark in Docker
